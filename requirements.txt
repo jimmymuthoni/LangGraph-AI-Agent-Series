@@ -1,0 +1,10 @@
+python-dotenv
+langchain-google-genai
+langchain-groq
+google.generativeai
+langchain_core
+langchain_community
+langchain
+chromadb
+wikipedia
+youtube_search
