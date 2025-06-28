@@ -8,3 +8,5 @@ langchain
 chromadb
 wikipedia
 youtube_search
+langchain_huggingface
+sentence-transformers
