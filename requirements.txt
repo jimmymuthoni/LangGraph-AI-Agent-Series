@@ -13,3 +13,4 @@ sentence-transformer
 faiss-cpu
 langgraph
 streamlit
+duckduckgo-search
