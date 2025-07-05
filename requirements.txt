@@ -14,3 +14,4 @@ faiss-cpu
 langgraph
 streamlit
 duckduckgo-search
+tiktoken
