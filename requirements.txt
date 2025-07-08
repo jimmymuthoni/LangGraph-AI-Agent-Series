@@ -15,3 +15,5 @@ langgraph
 streamlit
 duckduckgo-search
 tiktoken
+langchain_openai
+langchain_experimental
